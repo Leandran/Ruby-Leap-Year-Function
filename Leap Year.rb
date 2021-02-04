@@ -1,6 +1,6 @@
 def leap_year(year)
     
-    year = year.to_i  #converts string parameter to integer
+    year = year.to_i  #converts string argument to integer
     if year % 4 == 0
         if year % 100 == 0
             if year % 400 == 0

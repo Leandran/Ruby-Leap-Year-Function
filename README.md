@@ -1,1 +1,1 @@
-# A function using the leap year calculation
+# A calculation using the leap year function
